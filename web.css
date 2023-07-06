@@ -1,0 +1,13 @@
+h2{
+    text-align: center;
+    font-size: 70px;
+    text-decoration: underline;
+    color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+div{
+    background-color: black;
+    margin-bottom: 20px;
+    color: aliceblue;
+    padding: 30px;
+}
